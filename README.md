@@ -1,3 +1,3 @@
 # GitHub-demo
 First Github Demo
-Author-Vedika
+Author-Vedika Shigvan
